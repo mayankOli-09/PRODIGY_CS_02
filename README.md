@@ -20,7 +20,7 @@
 
 ---
 
-## 🎯 Overview
+## 🎯 Introduction
 
 **Password Complexity Checker** is a Python security tool that analyzes a password *before* you use it. It looks at length, character variety, repeated characters, predictable sequences, obvious years, and personal information.
 
